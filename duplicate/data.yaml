@@ -1,7 +1,0 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
-nc: 5
-names: ['apple healthy','apple scab disease', 'applescabdisease','apple cedar apple rust','apple black rot']
-
